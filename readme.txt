@@ -8,3 +8,8 @@ git is free software distributed under the GRL
 
 
 git has mutable index called stage
+
+git tracks changes
+
+
+
